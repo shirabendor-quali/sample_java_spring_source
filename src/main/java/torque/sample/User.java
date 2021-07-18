@@ -1,5 +1,5 @@
 
-package colony.spring.sample;
+package torque.spring.sample;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

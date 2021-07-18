@@ -1,4 +1,4 @@
-package colony.spring.sample;
+package torque.spring.sample;
 
 import java.sql.Connection;
 import java.sql.SQLException;
